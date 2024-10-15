@@ -62,5 +62,9 @@
     {
         "scriptName": "Dank_Utils",
         "version": "0.4.5"
+    },
+    {
+        "scriptName": "Dank_Hostage",
+        "version": "0.0.1"
     }
 ]
