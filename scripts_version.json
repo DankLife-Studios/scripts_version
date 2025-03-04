@@ -66,5 +66,9 @@
     {
         "scriptName": "Dank_Hostage",
         "version": "0.0.1"
+    },
+    {
+        "scriptName": "lb-tablet-chowhub",
+        "version": "1.0.0"
     }
 ]
