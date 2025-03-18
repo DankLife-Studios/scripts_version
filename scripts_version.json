@@ -70,5 +70,9 @@
     {
         "scriptName": "lb-tablet-chowhub",
         "version": "0.0.4"
-    }
+    },
+    {
+        "scriptName": "Dank_Noir",
+        "version": "1.0.0"
+    },
 ]
