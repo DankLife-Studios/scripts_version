@@ -69,7 +69,7 @@
   },
   {
     "scriptName": "lb-tablet-chowhub",
-    "version": "0.0.4"
+    "version": "1.0.0"
   },
   {
     "scriptName": "Dank_Noir",
@@ -78,5 +78,9 @@
   {
     "scriptName": "Dank_TypeShooter",
     "version": "1.0.4"
+  },
+  {
+    "scriptName": "Dank_Restaurants",
+    "version": "1.0.0"
   }
 ]
