@@ -1,86 +1,21 @@
-[
-  {
-    "scriptName": "Dank_Bahama_Mama",
-    "version": "3.0.2"
-  },
-  {
-    "scriptName": "Dank_Bean_Machine",
-    "version": "3.5.0"
-  },
-  {
-    "scriptName": "Dank_Burgershot",
-    "version": "10.0.2"
-  },
-  {
-    "scriptName": "Dank_Chowhub",
-    "version": "3.0.4"
-  },
-  {
-    "scriptName": "Dank_Cluckin_Bell",
-    "version": "2.0.2"
-  },
-  {
-    "scriptName": "Dank_Fleeca_Robbery",
-    "version": "1.1.1"
-  },
-  {
-    "scriptName": "Dank_Hornys",
-    "version": "1.0.6"
-  },
-  {
-    "scriptName": "Dank_Koi",
-    "version": "1.0.1"
-  },
-  {
-    "scriptName": "Dank_Pearls",
-    "version": "2.2.4"
-  },
-  {
-    "scriptName": "Dank_Pizza_This_Pizzeria",
-    "version": "5.0.0"
-  },
-  {
-    "scriptName": "Dank_Tequi_La",
-    "version": "1.0.0"
-  },
-  {
-    "scriptName": "Dank_Trash",
-    "version": "1.1.2"
-  },
-  {
-    "scriptName": "Dank_Up_N_Atoms",
-    "version": "3.0.0"
-  },
-  {
-    "scriptName": "Dank_Uwu_Cafe",
-    "version": "3.0.0"
-  },
-  {
-    "scriptName": "Dank_Vanilla_Unicorn",
-    "version": "1.0.0"
-  },
-  {
-    "scriptName": "Dank_Utils",
-    "version": "0.6.0"
-  },
-  {
-    "scriptName": "Dank_Hostage",
-    "version": "0.0.1"
-  },
-  {
-    "scriptName": "lb-tablet-chowhub",
-    "version": "1.0.0"
-  },
-  {
-    "scriptName": "Dank_Noir",
-    "version": "1.0.0"
-  },
-  {
-    "scriptName": "Dank_TypeShooter",
-    "version": "1.0.6"
-  },
-  {
-    "scriptName": "Dank_Restaurants",
-    "version": "1.0.0"
-  }
-]
+{
+  "Dank_Bahama_Mama": "3.0.2",
+  "Dank_Bean_Machine": "3.5.0",
+  "Dank_Burgershot": "10.0.2",
+  "Dank_Chowhub": "3.0.4",
+  "Dank_Cluckin_Bell": "2.0.2",
+  "Dank_Hornys": "1.0.6",
+  "Dank_Koi": "1.0.1",
+  "Dank_Pearls": "2.2.4",
+  "Dank_Pizza_This_Pizzeria": "5.0.0",
+  "Dank_Tequi_La": "1.0.0",
+  "Dank_Trash": "1.1.2",
+  "Dank_Up_N_Atoms": "3.0.0",
+  "Dank_Uwu_Cafe": "3.0.0",
+  "Dank_Vanilla_Unicorn": "1.0.0",
+  "Dank_Utils": "0.6.0",
+  "lb-tablet-chowhub": "1.0.0",
+  "Dank_Noir": "1.0.0",
+  "Dank_TypeShooter": "1.0.6",
+  "Dank_Grills": "1.0.0"
+}
